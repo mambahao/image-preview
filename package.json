@@ -1,15 +1,15 @@
 {
-  "name": "image-loader",
+  "name": "image-preview",
   "version": "2.0.1",
-  "description": "Image loader is plugin that loads image selected by input file field without uploading it on server.",
+  "description": "Image preview is plugin that loads image selected by input file field without uploading it on server.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/goschevski/image-loader.git"
+    "url": "git://github.com/mambahao/image-preview.git"
   },
   "author": "Aleksandar Gosevski - http://goschevski.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/goschevski/image-loader/issues"
+    "url": "https://github.com/mambahao/image-preview/issues"
   },
-  "homepage": "https://github.com/goschevski/image-loader"
+  "homepage": "https://github.com/mambahao/image-preview"
 }
