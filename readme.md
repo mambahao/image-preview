@@ -1,6 +1,6 @@
 # Image Preview
 
-Image loader is plugin that loads image selected by input file field without uploading it on server.
+Image preview is plugin that loads image selected by input file field without uploading it on server.
 
 ## Options and defaults
 
@@ -20,7 +20,7 @@ Image loader is plugin that loads image selected by input file field without upl
 
 ```js
 $(function () {
-  var loader = new ImageLoader('input[type="file"]', {
+  var loader = new ImagePreview('input[type="file"]', {
     placeholder: '.holder',
     width: '200px',
     imgClass: 'my-custom-class',
