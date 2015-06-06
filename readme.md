@@ -1,4 +1,4 @@
-# Image loader
+# Image Preview
 
 Image loader is plugin that loads image selected by input file field without uploading it on server.
 

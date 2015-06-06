@@ -3,8 +3,6 @@
  * https://github.com/goschevski/image-loader
  * Copyright (c) Aleksandar Gosevski
  */
-
-;
 (function () {
   var defaults = function (defaults, options) {
     for (var key in options) {
@@ -15,7 +13,7 @@
     return defaults;
   };
 
-  var ImageLoader = function (element, options) {
+  var ImagePreview = function (element, options) {
     if (!this.isSupported)
       throw new Error('Older browsers are not supported.');
 
@@ -28,7 +26,7 @@
     this.bindEvents();
   };
 
-  ImageLoader.prototype = {
+  ImagePreview.prototype = {
     defaults: {
       placeholder: '.image-placeholder',
       width: 'auto',
@@ -92,5 +90,5 @@
     }
   };
 
-  window.ImageLoader = ImageLoader;
+  window.ImagePreview = ImagePreview;
 })();

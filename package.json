@@ -1,15 +1,20 @@
 {
   "name": "image-preview",
-  "version": "2.0.1",
+  "version": "0.0.1",
   "description": "Image preview is plugin that loads image selected by input file field without uploading it on server.",
   "repository": {
     "type": "git",
     "url": "git://github.com/mambahao/image-preview.git"
   },
-  "author": "Aleksandar Gosevski - http://goschevski.com",
+  "author": "Justin Hao - https://github.com/mambahao",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mambahao/image-preview/issues"
   },
-  "homepage": "https://github.com/mambahao/image-preview"
+  "homepage": "https://github.com/mambahao/image-preview",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*"
+  }
 }
