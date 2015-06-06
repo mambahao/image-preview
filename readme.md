@@ -1,3 +1,7 @@
+## Thanks
+
+Basic code from the [image-loader][] project, thank you very much Aleksandar Goševski
+
 # Image Preview
 
 Image preview is plugin that loads image selected by input file field without uploading it on server.
@@ -34,3 +38,5 @@ $(function () {
 ### License
 
 Copyright (c) Aleksandar Goševski
+
+[image-loader]: https://github.com/goschevski/image-loader

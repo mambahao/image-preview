@@ -1,7 +1,7 @@
 /*
- * image-loader
- * https://github.com/goschevski/image-loader
- * Copyright (c) Aleksandar Gosevski
+ * image-preview
+ * https://github.com/mambahao/image-preview
+ * Copyright (c) Justin Hao
  */
 (function () {
   var defaults = function (defaults, options) {
