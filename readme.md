@@ -1,4 +1,4 @@
-## Thanks
+# Thanks
 
 Basic code from the [image-loader][] project, thank you very much Aleksandar Goševski
 
