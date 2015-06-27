@@ -1,7 +1,7 @@
 {
   "name": "image-preview",
   "main": "image-preview.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/mambahao/image-preview",
   "authors": [
     "Justin Hao <justin@haoyufeng.com>"
