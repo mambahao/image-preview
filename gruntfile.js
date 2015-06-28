@@ -26,7 +26,7 @@ module.exports = function(grunt) {
 
   //载入 uglify 插件，用于 JS 压缩
   grunt.loadNpmTasks('grunt-contrib-uglify');
- 
+
   //注册任务
   grunt.registerTask('default', ['jshint', 'uglify']);
 };

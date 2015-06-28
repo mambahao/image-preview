@@ -1,6 +1,6 @@
 {
   "name": "image-preview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Image preview is plugin that loads image selected by input file field without uploading it on server.",
   "repository": {
     "type": "git",

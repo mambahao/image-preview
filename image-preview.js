@@ -86,6 +86,7 @@
     },
 
     setBackground: function (e) {
+      var o = this.options;
       this.$placeholder.style.backgroundImage = 'url(' + e.target.result + ')';
       if (typeof o.callback === 'function')
         o.callback();
